@@ -14,8 +14,8 @@ Clone the repo.
 
 Then open the repo in your favourite code editor.
 
-While in the root directory of the repo type the name of the file you want to run, for example, if you want to run the script for the exercises number 1 in chapter 3 run in the terminal:
+Open the terminal, while in the root directory of the repo type `python` followed by the name of the file you want to run, for example, if you want to run the script for the exercises number 1 in chapter 3 run in the terminal:
 
 ``` 
-3_1.py
+python 3_1.py
 ```
